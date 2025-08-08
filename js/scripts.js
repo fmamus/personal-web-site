@@ -25,9 +25,10 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Furkan',
     'I code on the web',
+    'I\'m expanding my skills in JavaScript.',
     'I\'m currently working on <a href="https://www.platform.moveon.ai" target="_blank">MOVE ON Cloud Platform</a>',
     'You can find me on <a target="_blank" href="https://x.com/fmamus">X</a>, <a target="_blank" href="https://www.linkedin.com/in/furkanmamus/">Linkedin</a> and <a target="_blank" href="https://github.com/fmamus">GitHub</a>',
-    'Or contact me directly at <a href="mailto:furkan.mamus1903@hotmail.com">furkan.mamus1903@hotmail.com</a>',
+    'Or contact me directly at <a href="mailto:furkanmamus1903@hotmail.com">furkanmamus1903@hotmail.com</a>',
     getCurrentTime(),
     '~ F.',
   ]
